@@ -1,4 +1,4 @@
-#Empirical Mode Decomposition
+# Empirical Mode Decomposition
 
 About algorithm you can read [here](https://en.wikipedia.org/wiki/Hilbert%E2%80%93Huang_transform#Empirical_mode_decomposition_2)
 
