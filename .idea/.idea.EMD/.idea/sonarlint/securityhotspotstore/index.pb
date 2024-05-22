@@ -1,0 +1,5 @@
+
+d
+4EMD.UnitTests/EmpiricalModeDecompositionUnitTests.cs,4\8\4882232fcf4f731299c84487c8f22c4ebab9d76e
+Q
+!EMD/EmpiricalModeDecomposition.cs,a\a\aac7a432d725b85afaac2f4c4662aed4ed994be4
